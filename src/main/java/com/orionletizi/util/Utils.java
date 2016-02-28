@@ -1,4 +1,4 @@
-package com.orionletizi.utils;
+package com.orionletizi.util;
 
 import java.io.File;
 import java.io.IOException;

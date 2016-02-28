@@ -1,4 +1,4 @@
-package com.orionletizi.utils;
+package com.orionletizi.util;
 
 public class Assertions {
 

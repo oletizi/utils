@@ -1,4 +1,4 @@
-package com.orionletizi.utils.logging;
+package com.orionletizi.util.logging;
 
 public interface Logger {
   static Logger NULL_LOGGER = new NullLogger();

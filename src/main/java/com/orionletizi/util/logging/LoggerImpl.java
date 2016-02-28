@@ -1,4 +1,4 @@
-package com.orionletizi.utils.logging;
+package com.orionletizi.util.logging;
 
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
